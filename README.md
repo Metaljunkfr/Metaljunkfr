@@ -10,7 +10,7 @@
 
 😄 PHP and Symfony are my best friends for now (also interested in Vue.js), their documentations are well done, swap knowledges with others is also a good thing to grow up within web development. 
 
-💬 Since one year I have realized several projects, some are private because of sensitive informations but if you ask me, it would be a pleasure to discuss about process, code, or anything else. I am also still making 2 E-commerce projects to increase my skills. :muscle:
+💬 For one year I have realized several projects, some are private because of sensitive informations but if you ask me, it would be a pleasure to discuss about process, code, or anything else. I am also still making 2 E-commerce projects to increase my skills. :muscle:
 
 📫 You can find me in [LinkedIn](https://www.linkedin.com/in/guillaumegeorges/), [StackOverflow](https://stackoverflow.com/users/13133575/metaljk), [My own website](https://www.guillaumegeorges.fr)
 
