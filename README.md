@@ -41,7 +41,7 @@ Active member of a wonderful community named "La Fabrik du numérique". This com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metaljunkfr&count_private=true&show_icons=true&theme=nord)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaljunkfr&count_private=true&layout=compact&bg_color=313743&text_color=FFF&title_color=6A97BB)](https://github.com/Metaljunkfr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaljunkfr&layout=compact&bg_color=313743&text_color=FFF&title_color=6A97BB)](https://github.com/Metaljunkfr/github-readme-stats)
 
 <!--
 **Metaljunkfr/Metaljunkfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
