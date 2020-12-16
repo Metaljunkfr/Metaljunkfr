@@ -35,7 +35,7 @@ Active member of a wonderful community named "La Fabrik du numérique". This com
 
 📫 You can find me in [LinkedIn](https://www.linkedin.com/in/guillaumegeorges/), [StackOverflow](https://stackoverflow.com/users/13133575/metaljk), [My own website](https://www.guillaumegeorges.fr)
 
- <img src="wolf.jpg" alt="Payday 2" height="32px"> More personal infos : I love to cook for my family, to try to make some music and discover things. Did I already speak about video games? 
+ <img src="wolf.jpg" alt="Payday 2" height="32px" align="left"> More personal infos : I love to cook for my family, to try to make some music and discover things. Did I already speak about video games? 
  
 <hr>
 
