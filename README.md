@@ -3,7 +3,8 @@
 👋 I am Guillaume, a 32 years old developer. 
 
 🔭 I have always been keen on screens, high-technology gadgets, video games, connected stuffs.
-After 13 years working as a youth leader and as High-tech customer service representative (I appreciate human contact 👯👯), I have decided to retraining myself with IT development.
+
+👯👯 After 13 years working as a youth leader and as High-tech customer service representative (I appreciate human contact), I have decided to retraining myself with IT development.
 
 🌱 I am very new in this field, but I love to learn new things everyday, and as in my personal life, I like to find solutions for any problem I encounter. 
 
