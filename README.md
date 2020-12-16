@@ -14,7 +14,7 @@
 
 📫 You can find me in [LinkedIn](https://www.linkedin.com/in/guillaumegeorges/), [StackOverflow](https://stackoverflow.com/users/13133575/metaljk), [My own website](https://www.guillaumegeorges.fr)
 
-More personal infos : I love to cook for my family, to try to make some music and discover things. Did I already speak about video games? 
+ <img src="wolf.jpg" alt="Payday 2" height="32px"> More personal infos : I love to cook for my family, to try to make some music and discover things. Did I already speak about video games? 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metaljunkfr)
 
