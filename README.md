@@ -6,7 +6,7 @@ Active member of a wonderful community named "La Fabrik du numérique". This com
 
 👋 I am Guillaume, a 32 years old developer. 
 
-🔭 I have always been keen on screens, high-technology gadgets, video games, connected stuffs.
+🔭 I have always been keen on screens, high-technology gadgets, video games, connected stuffs and I really like to understand how it works.
 
 👯:heart_eyes_cat::dancing_men: After 13 years working as a youth leader and as a High-tech customer service representative, I have decided to retrain in IT development.
 ```php
