@@ -8,7 +8,7 @@ Active member of a wonderful community named "La Fabrik du numérique". This com
 
 🔭 I have always been keen on screens, high-technology gadgets, video games, connected stuffs.
 
-👯:heart_eyes_cat::dancing_men: After 13 years working as a youth leader and as a High-tech customer service representative, I have decided to retraining myself with IT development.
+👯:heart_eyes_cat::dancing_men: After 13 years working as a youth leader and as a High-tech customer service representative, I have decided to retrain in IT development.
 ```php
 <?php
     $maxScore = 10;
