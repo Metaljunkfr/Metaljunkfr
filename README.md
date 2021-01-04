@@ -1,7 +1,7 @@
 ### Welcome to my Github profile !! 
 
-<img src="logofabrik.png" alt="La Fabrik du numérique" height="75px" align="right"> 
-Active member of a wonderful community named "La Fabrik du numérique". This community is about digital and regroup more than 1000+ developers, recruiters, designers, testers, data scientists, CTO, CEO, PO, MOA, freelances etc... We are sharing knowledges, tips, and helping each other in a perfect benevolence.
+<img src="whatthefabrik.jpg" alt="What The Fabrik" height="75px" align="right"> 
+Active member of a wonderful community named "What The Fabrik". This community is about digital and regroup more than 1000+ developers, recruiters, designers, testers, data scientists, CTO, CEO, PO, MOA, freelances etc... We are sharing knowledges, tips, and helping each other in a perfect benevolence.
 <hr>
 
 👋 I am Guillaume, a 32 years old developer. 
