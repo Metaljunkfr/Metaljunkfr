@@ -12,7 +12,7 @@ Active member of a wonderful community named "What The Fabrik". This community i
 ```php
 <?php
     $maxScore = 10;
-    $workWith = ['customer','chief', 'front-end dev', 'back-end dev', 'chief', 'customer','dev on forum', 'customer', 'director']; 
+    $workWith = ['customer','lead', 'front-end dev', 'back-end dev', 'lead', 'customer','dev on forum', 'customer', 'director']; 
     $humanContact = count($workWith);
     if ($humanContact < 2){
         echo("Hey, there still are good humans here !");
